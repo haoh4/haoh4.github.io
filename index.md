@@ -8,20 +8,34 @@ layout: page
 
 Here is **Hao Hu (Peter, 胡昊)**.
 
-I am a third-year master student with [Prof. Pengzhao](https://person.zju.edu.cn/en/pengzhao) in **ME** at Zhejiang University. 
+I am a third-year master student with [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao) in **ME** at Zhejiang University. 
 I am generally interested in magnetic tactile sensors, soft robotics, flexible electronics.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *mehaoh4@gmail.com*
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Master of Science (MSc) in Mechanical Engineering** 
+[Zhejiang University](https://www.zju.edu.cn/english/), China
+Advisor: [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao)
+September 2021 - ongoing
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+- **Bachelor of Science (BSc) in Mechanical Engineering**
+[University of Illinois at Urbana-Champaign](https://illinois.edu/), United States
+With Honors
+September 2017–June 2021
+
+- **Exchange Program on The Artificial Intelligence Innovation** 
+[Imperial College London](https://www.imperial.ac.uk/), United Kingdom
+Advisor: [Prof. Yike Guo](https://scholar.google.com/citations?user=-0q6cIYAAAAJ)
+February 2019
+
+- **Bachelor of Science (BSc) in Mechanical Engineering** 
+[Zhejiang University](https://www.zju.edu.cn/english/), China
+Outstanding Graduate
+September 2017–June 2021
 
 <br>
 
