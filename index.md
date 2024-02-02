@@ -18,24 +18,24 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Master of Science (MSc) in Mechanical Engineering** 
-[Zhejiang University](https://www.zju.edu.cn/english/), China
-Advisor: [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao)
-September 2021 - ongoing
+<br>[Zhejiang University](https://www.zju.edu.cn/english/), China
+<br>Advisor: [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao)
+<br>September 2021 - ongoing
 
 - **Bachelor of Science (BSc) in Mechanical Engineering**
-[University of Illinois at Urbana-Champaign](https://illinois.edu/), United States
-With Honors
-September 2017–June 2021
+<br>[University of Illinois at Urbana-Champaign](https://illinois.edu/), United States
+<br>With Honors
+<br>September 2017–June 2021
 
 - **Exchange Program on The Artificial Intelligence Innovation** 
-[Imperial College London](https://www.imperial.ac.uk/), United Kingdom
-Advisor: [Prof. Yike Guo](https://scholar.google.com/citations?user=-0q6cIYAAAAJ)
-February 2019
+<br>[Imperial College London](https://www.imperial.ac.uk/), United Kingdom
+<br>Advisor: [Prof. Yike Guo](https://scholar.google.com/citations?user=-0q6cIYAAAAJ)
+<br>February 2019
 
 - **Bachelor of Science (BSc) in Mechanical Engineering** 
-[Zhejiang University](https://www.zju.edu.cn/english/), China
-Outstanding Graduate
-September 2017–June 2021
+<br>[Zhejiang University](https://www.zju.edu.cn/english/), China
+<br>Outstanding Graduate
+<br>September 2017–June 2021
 
 <br>
 
