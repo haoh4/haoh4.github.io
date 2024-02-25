@@ -56,6 +56,7 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 ---
 ## Honors & Awards
 
+## Graduate Level:
 - Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** <br>Only [12 graduates] are selected around the university
 - Nov 2022：**National Scholarship, Top 1%, MOE of China** 
 - 2021-2022：Graduate of Merit/Triple A graduate, ZJU
@@ -66,7 +67,17 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 - Sep 2021：Third Prize Scholarship of FZU ($700)
 - March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
 
-
+## Undergraduate Level:
+- Jun 2021：Outstanding Graduates of Zhejiang University
+- 2020-2021：Dean’s List, UIUC
+- 2019-2020：Innovation and Entrepreneurship Award, ZJU
+- 2019-2020：Academic Progress Award, ZJU
+- 2018：Pacemaker in foreign exchange, ZJU
+- 2018：The Sixth Prize in Rugby Competition, ZJU
+- 2018：Top Ten Teams of Social Practice, ZJU
+- 2017-2018：Third-Class Academic Excellence Scholarship,**Top 10%**, ZJUI
+- 2017-2018：Innovation and Entrepreneurship Award, ZJU
+- 2017：The Second Prize in the ”White Horse Cup” Debate Competition, ZJUI
 <!-- ## News and Updates
 
 - **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
