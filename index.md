@@ -43,13 +43,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
+- Magnetic Tactile Sensors
+- Soft Robotics
+- Flexible Electronics
 - Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- [My latest research proposal](https://haoh4.github.io/file/Research Statement.pdf) 🔗
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynamics' "Atlas," the interaction between robots and humans is becoming more prevalent. It is visible that the inclusion of tactile sensors is necessary to enhance the safety of human-robot interactions. Consistently immersed in research projects related to **magnetic flexible tactile sensors** during my undergraduate and postgraduate studies, I clearly saw the promising potential applications of this sensor in future human-machine interactions and humanoid robot tactile perception.
 
 <br>
 
