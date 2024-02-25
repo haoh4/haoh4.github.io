@@ -56,9 +56,8 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 ---
 ## Honors & Awards
 
-- Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** ($5000)<br>Only [12 graduates]http://www.zuef.zju.edu.cn/index.php/webSite/webColumn/showarticle/3939.html) are selected around the university
-- Nov 2022：**National Scholarship, Top 1%, MOE of China** ($1400)
-- 2021-2022：Award of Honor for Graduate, ZJU
+- Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** <br>Only [12 graduates] are selected around the university
+- Nov 2022：**National Scholarship, Top 1%, MOE of China** 
 - 2021-2022：Graduate of Merit/Triple A graduate, ZJU
 - 2021-2022：Creativity of Entrepreneurship Scholarship, ZJU
 - Aug 2021：The Third Prize in International College Students’ ’Internet’ Innovation and Enterpreneurship Competition
