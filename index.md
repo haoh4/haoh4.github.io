@@ -54,8 +54,21 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 <br>
 
 ---
+## Honors & Awards
 
-## News and Updates
+- Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** ($5000)<br>Only [12 graduates]http://www.zuef.zju.edu.cn/index.php/webSite/webColumn/showarticle/3939.html) are selected around the university
+- Nov 2022：**National Scholarship, Top 1%, MOE of China** ($1400)
+- 2021-2022：Award of Honor for Graduate, ZJU
+- 2021-2022：Graduate of Merit/Triple A graduate, ZJU
+- 2021-2022：Creativity of Entrepreneurship Scholarship, ZJU
+- Aug 2021：The Third Prize in International College Students’ ’Internet’ Innovation and Enterpreneurship Competition
+- Sep 2022：The Third Prize at the national level at 4th China Postgraduate Robot Innovation and Design Competition
+- Aug 2022：The First Prize in Zhejiang University at 4th China Postgraduate Robot Innovation and Design Competition
+- Sep 2021：Third Prize Scholarship of FZU ($700)
+- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+
+
+<!-- ## News and Updates
 
 - **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
 - **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
@@ -67,4 +80,4 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
