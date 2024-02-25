@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 28th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+<!-- > Lastest Update: 28th Dec 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
 ---
 ## Journal Paper
@@ -33,7 +33,8 @@ title: Publications
   <br>
 ---
 
-## Working Manuscript
+
+<!-- ## Working Manuscript
 
 - Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
 
@@ -49,4 +50,4 @@ title: Publications
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
 
-  <br>
+  <br> -->
