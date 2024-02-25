@@ -47,7 +47,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Soft Robotics
 - Flexible Electronics
 - Applied Machine Learning
-- [My latest research proposal](https://haoh4.github.io/file/Research Statement.pdf) 🔗
+- [My latest research proposal](https://haoh4.github.io/file/Research_Statement.pdf) 🔗
 
 With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynamics' "Atlas," the interaction between robots and humans is becoming more prevalent. It is visible that the inclusion of tactile sensors is necessary to enhance the safety of human-robot interactions. Consistently immersed in research projects related to **magnetic flexible tactile sensors** during my undergraduate and postgraduate studies, I clearly saw the promising potential applications of this sensor in future human-machine interactions and humanoid robot tactile perception.
 
