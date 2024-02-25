@@ -63,9 +63,7 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 - 2021-2022：Creativity of Entrepreneurship Scholarship, ZJU
 - Aug 2021：The Third Prize in International College Students’ ’Internet’ Innovation and Enterpreneurship Competition
 - Sep 2022：The Third Prize at the national level at 4th China Postgraduate Robot Innovation and Design Competition
-- Aug 2022：The First Prize in Zhejiang University at 4th China Postgraduate Robot Innovation and Design Competition
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Aug 2022：The First Prize in Zhejiang University at 4th China Postgraduate Robot Innovation and Design Competition<br>
 
 ## Undergraduate Level:
 - Jun 2021：Outstanding Graduates of Zhejiang University
@@ -78,6 +76,10 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 - 2017-2018：Third-Class Academic Excellence Scholarship,**Top 10%**, ZJUI
 - 2017-2018：Innovation and Entrepreneurship Award, ZJU
 - 2017：The Second Prize in the ”White Horse Cup” Debate Competition, ZJUI
+
+<br>
+
+---
 <!-- ## News and Updates
 
 - **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
