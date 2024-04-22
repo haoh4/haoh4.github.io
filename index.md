@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hao Hu (Peter, 胡昊)**.
 
-I am a third-year master student with [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao) in **ME** at Zhejiang University. 
+I am a third-year master student with [Prof. Peng Zhao](https://person.zju.edu.cn/en/pengzhao) in **ME** at Zhejiang University. 
 I am generally interested in magnetic tactile sensors, soft robotics, flexible electronics.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *mehaoh4@gmail.com*
