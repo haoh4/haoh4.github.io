@@ -15,5 +15,5 @@ title: Teams
 <br>
 <img src="/images/IMG_9254.JPG">
 <br>
-<img src="/images/IMG_9308.JPG">
+<img src="/images/IMG_9358.JPG">
 <br>
