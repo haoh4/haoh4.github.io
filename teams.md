@@ -10,19 +10,10 @@ title: Teams
 <br>
 
 <left>
-  <img src = "https://p.ipic.vip/l97lne.jpg">
+  <img src="/images/IMG_9203.JPG">
 </left>
-
-
 <br>
-
-<div class="third">
-<img src="https://p.ipic.vip/3g1514.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-</div>
-
-
-
-
+<img src="/images/IMG_9254.JPG">
+<br>
+<img src="/images/IMG_9308.JPG">
 <br>
