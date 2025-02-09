@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Master of Science (MSc) in Mechanical Engineering** 
 <br>[Zhejiang University](https://www.zju.edu.cn/english/), China
-<br>Advisor: [Prof. Peng zhao](https://person.zju.edu.cn/en/pengzhao)
+<br>Advisor: [Prof. Peng Zhao](https://person.zju.edu.cn/en/pengzhao)
 <br>September 2021 - ongoing
 
 - **Bachelor of Science (BSc) in Mechanical Engineering**
