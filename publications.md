@@ -17,7 +17,7 @@ title: Publications
 
 - [Magnetic flexible tactile sensor via direct ink writing](https://www.sciencedirect.com/science/article/abs/pii/S0924424721002168)<br>**Sensors and Actuators A: Physical**, 327, 112753<br>Xuechun Zhang, **Hao Hu**, Daofan Tang, Chengqian Zhang, Jianzhong Fu, Peng Zhao
 
-- [ Bistable soft jumper capable of fastresponse and high take-off velocity]<br>**Science Robotics**, under review<br>Daofan Tang, Chengqian Zhang, Chenfeng Pan, **Hao Hu**, etc.
+- [Bistable soft jumper capable of fastresponse and high take-off velocity](https://www.science.org/doi/10.1126/scirobotics.adm8484#:~:text=Here%2C%20we%20report%20a%20magnetic-driven%2C%20ultrafast%20bistable%20soft,15%20milliseconds%29%20compared%20with%20previous%20soft%20jumping%20robots.)<br>**Science Robotics**, 9,eadm8484(2024)<br>Daofan Tang, Chengqian Zhang, Chenfeng Pan, **Hao Hu**, Haonan Sun, Huangzhe Dai, Jianzhong Fu, Carmel Majidi, Peng Zhao
 
 - [Bidirectional magnetic projection: one-step separation for recycling mixed wastes](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.0c02461)<br>**ACS Sustainable Chemistry & Engineering**, 8 (29), 10774-10785<br>Peng Zhao, Xuechun Zhang, Fu Gu, **Hao Hu**, Chengqian Zhang, Jianzhong Fu
 
