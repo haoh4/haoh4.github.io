@@ -109,3 +109,13 @@ title: photos
 <br>Photo with my parents
 <br>
 <br>
+- May. 2021：**Senior Design** 
+<img src="/images/Groupphotos/Senior/Photo1.jpeg">
+<br>Photo with our Keebot, Xinyi, Zhi, and Kerui
+<br>
+<br>
+- May. 2020：**University of Illinois Urbana-Champaign** 
+<img src="/images/Groupphotos/UIUC/Photo1.jpeg">
+<br>Photo with Alma Mater in UIUC
+<br>
+<br>
