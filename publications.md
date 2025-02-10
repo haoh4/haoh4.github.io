@@ -30,7 +30,7 @@ title: Publications
 
 ##  Patents of Invention
 
-- Folding magnetization method, tactile sensor structure and magnetic tactile sensor<br>**China**, ZL 2021 1 0390227<br>Peng Zhao, **Hao Hu** etc.
+- Folding magnetization method, tactile sensor structure and magnetic tactile sensor<br>**China**, ZL 2021 1 0390227.1<br>Peng Zhao, **Hao Hu** etc.
 
 -  Magnetic flexible tactile sensing structure and application based on folding magnetization method<br>**China**, ZL 2021 1 0384615.9<br>Peng Zhao, **Hao Hu** etc.
 
