@@ -64,12 +64,21 @@ title: photos
 <img src="/images/Groupphotos/Cixi/Photo2.jpeg">
 <br>
 <br>
-- Aug. 2023：**China Robotics Academic Annual Conference** 
+- Aug. 2022：**China Robotics Academic Annual Conference** 
 <img src="/images/Groupphotos/Robot/Photo1.jpeg">
 <br>Photo with my group members
 <br>
 <br>
 <img src="/images/Groupphotos/Robot/Photo2.jpeg">
 <br>Photo with group members
+<br>
+<br>
+- Oct. 2021：**China International College Student Entrepreneurship Competition** 
+<img src="/images/Groupphotos/Internet/Photo1.jpeg">
+<br>Photo with Jingfan, Juanxia, and Jiaxi
+<br>
+<br>
+<img src="/images/Groupphotos/Internet/Photo2.jpeg">
+<br>Photo with Fab near the Pavilion of Prince Teng
 <br>
 <br>
