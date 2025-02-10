@@ -35,6 +35,7 @@ title: Publications
 -  Magnetic flexible tactile sensing structure and application based on folding magnetization method<br>**China**, ZL 2021 1 0384615.9<br>Peng Zhao, **Hao Hu** etc.
 
 -  Magnetic flexible tactile sensing structure and application based on folding magnetization method<br>**USA**, 17656036, in press<br>Peng Zhao, **Hao Hu** etc.
+
   <br>
 ## Conference Paper
 
