@@ -66,7 +66,7 @@ title: photos
 <br>
 - Sep. 2022：**Graduate Robotics Innovation Design Competition** 
 <img src="/images/Groupphotos/hao/Photo1.jpeg">
-<br>Photo with haonan
+<br>Photo with Haonan
 <br>
 <br>
 <img src="/images/Groupphotos/hao/Photo2.jpeg">
