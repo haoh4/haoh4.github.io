@@ -57,3 +57,19 @@ title: photos
 <br>Photo with Mr. Florian
 <br>
 <br>
+- Dec. 2022：**Cixi College Student Entrepreneurship Competition** 
+<img src="/images/Groupphotos/Cixi/Photo1.jpeg">
+<br>
+<br>
+<img src="/images/Groupphotos/Cixi/Photo2.jpeg">
+<br>
+<br>
+- Aug. 2023：**China Robotics Academic Annual Conference** 
+<img src="/images/Groupphotos/Robot/Photo1.jpeg">
+<br>Photo with my group members
+<br>
+<br>
+<img src="/images/Groupphotos/Robot/Photo2.jpeg">
+<br>Photo with group members
+<br>
+<br>
