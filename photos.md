@@ -17,6 +17,3 @@ title: photos
 <br>
 <img src="/images/IMG_9358.JPG">
 <br>
-<left>
-  <img src="/images/Paperphotos/ACS_Nano.png">
-</left>
