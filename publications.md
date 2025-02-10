@@ -13,6 +13,7 @@ title: Publications
 <img src="/images/Paperphotos/ACS_Nano.png">
 
 - [Large-area Magnetic Skin for Multi-point and Multi-scale Tactile Sensing with Super-resolution](https://www.nature.com/articles/s41528-024-00325-z)<br>**npj flexible electronics**, 8, 42 (2024)<br>**Hao Hu**, Chengqian Zhang, Xinyi Lai,Huangzhe Dai, Chengfeng Pan, Haonan Sun, Daofan Tang, Jianzhong Fu, Tiefeng Li, Peng Zhao
+<img src="/images/Paperphotos/npj_Flexible_Electronics.png">
 
 - [Bistable soft jumper capable of fastresponse and high take-off velocity](https://www.science.org/doi/10.1126/scirobotics.adm8484#:~:text=Here%2C%20we%20report%20a%20magnetic-driven%2C%20ultrafast%20bistable%20soft,15%20milliseconds%29%20compared%20with%20previous%20soft%20jumping%20robots.)<br>**Science Robotics**, 9,eadm8484(2024)<br>Daofan Tang, Chengqian Zhang, Chenfeng Pan, **Hao Hu**, Haonan Sun, Huangzhe Dai, Jianzhong Fu, Carmel Majidi, Peng Zhao
 
