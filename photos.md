@@ -21,4 +21,12 @@ title: photos
 <br>Photo with Prof. Martin Kaltenbrunner
 <br>
 <br>
-- Dec. 2023：**The 5th International Conference on Flexible Electronics** 
+- Dec. 2023：**Chu Kochen Scholarship** 
+<img src="/images/Groupphotos/ZKZ/Photo1.jpeg">
+<br>Photo with Prof. Jiangfeng Du
+<br>
+<br>
+<img src="/images/Groupphotos/ZKZ/Photo2.jpeg">
+<br>Photo with my friends
+<br>
+<br>
