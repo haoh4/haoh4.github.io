@@ -64,6 +64,15 @@ title: photos
 <img src="/images/Groupphotos/Cixi/Photo2.jpeg">
 <br>
 <br>
+- Sep. 2022：**Graduate Robotics Innovation Design Competition** 
+<img src="/images/Groupphotos/hao/Photo1.jpeg">
+<br>Photo with haonan
+<br>
+<br>
+<img src="/images/Groupphotos/hao/Photo2.jpeg">
+<br>Photo in the competition
+<br>
+<br>
 - Aug. 2022：**China Robotics Academic Annual Conference** 
 <img src="/images/Groupphotos/Robot/Photo1.jpeg">
 <br>Photo with my group members
