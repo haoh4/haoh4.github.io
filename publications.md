@@ -10,6 +10,9 @@ title: Publications
 ## Journal Paper
 
 - [Wireless Flexible Magnetic Tactile Sensor with Super-Resolution in Large-Areas](https://pubs.acs.org/doi/epdf/10.1021/acsnano.2c08664)<br>**ACS nano**, 16 (11), 19271-19280, (2022)<br>**Hao Hu**, Chengqian Zhang, Chengfeng Pan, Huangzhe Dai, Haonan Sun, Yifeng Pan, Xinyi Lai, Chenxin Lyu, Daofan Tang, Jianzhong Fu, Peng Zhao
+<left>
+  <img src="/images/Paperphotos/ACS_Nano.JPG">
+</left>
 
 - [Large-area Magnetic Skin for Multi-point and Multi-scale Tactile Sensing with Super-resolution](https://www.nature.com/articles/s41528-024-00325-z)<br>**npj flexible electronics**, 8, 42 (2024)<br>**Hao Hu**, Chengqian Zhang, Xinyi Lai,Huangzhe Dai, Chengfeng Pan, Haonan Sun, Daofan Tang, Jianzhong Fu, Tiefeng Li, Peng Zhao
 
