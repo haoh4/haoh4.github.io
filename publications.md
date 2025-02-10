@@ -28,7 +28,14 @@ title: Publications
 - [Magnetic field-assisted manufacturing of groove-structured flexible actuators with enhanced performance](https://www.sciencedirect.com/science/article/abs/pii/S2214860424000253)<br>**Additive Manufacturing**, 80, 10397 (2024)<br>Haonan Sun, Chengqian Zhang, Chengfeng Pan, Zhezai Hu, Yujie Huang, Daofan Tang, Jun Xie, Huangzhe Dai, **Hao Hu**, Tiefeng Li, Peng Zhao
   <br>
 
+##  Patents of Invention
 
+- Folding magnetization method, tactile sensor structure and magnetic tactile sensor<br>**China**, ZL 2021 1 0390227<br>Peng Zhao, **Hao Hu** etc.
+
+-  Magnetic flexible tactile sensing structure and application based on folding magnetization method<br>**China**, ZL 2021 1 0384615.9<br>Peng Zhao, **Hao Hu** etc.
+
+-  Magnetic flexible tactile sensing structure and application based on folding magnetization method<br>**USA**, 17656036, in press<br>Peng Zhao, **Hao Hu** etc.
+  <br>
 ## Conference Paper
 
 - Coming soon! 🚀
