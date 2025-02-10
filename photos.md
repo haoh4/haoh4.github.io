@@ -7,6 +7,20 @@ title: photos
 
 ## Photos and Memories
 
+- March. 2024：**Graduated from Zhejiang University with a master's degree** 
+<br>
+<img src="/images/Groupphotos/Master/Photo1.png">
+<br>Photo with my group members
+<br>
+<br>
+<img src="/images/Groupphotos/Master/Photo2.png">
+<br>Photo after my Master's defense
+<br>
+<br>
+<img src="/images/Groupphotos/Master/Photo3.png">
+<br>Photo with Prof. Peng Zhao
+<br>
+<br>
 - Dec. 2023：**The 5th International Conference on Flexible Electronics** 
 <br>
 <img src="/images/Groupphotos/FE/Photo1.png">
