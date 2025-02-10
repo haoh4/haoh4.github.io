@@ -8,7 +8,10 @@ layout: page
 
 Here is **Hao Hu (Peter, 胡昊)**.
 
-I am a third-year master student with [Prof. Peng Zhao](https://person.zju.edu.cn/en/pengzhao) in **ME** at Zhejiang University. 
+I am a first-year Phd student with [Prof. Xinge Yu](https://yu-electronics.com/xinge-yu/) in **Department of Biomedical Engineering** at City University of Hong Kong.
+Before that, I received my Master degree from **Department of Mechanical Engineering**, Zhejiang University, China, where I was fortunate to be advised by [Prof. Peng Zhao](https://person.zju.edu.cn/en/pengzhao).
+And I received my double Bachelor degree with honors from **Department of Mechanical Engineering**, University of Illinois Urbana-Champaign, USA and **Department of Mechanical Engineering**, Zhejiang University, China.
+
 I am generally interested in magnetic tactile sensors, soft robotics, flexible electronics.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *mehaoh4@gmail.com*
