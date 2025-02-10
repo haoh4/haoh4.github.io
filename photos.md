@@ -167,3 +167,12 @@ title: photos
 <br>Photo with friends in power plant
 <br>
 <br>
+- Jan. 2025：**Zhejiang University Campus Marathon** 
+<img src="/images/Groupphotos/Run/Photo1.jpeg">
+<br>Photo with Ruoxiang, and Huangzhe
+<br>
+<br>
+<img src="/images/Groupphotos/Run/Photo2.jpeg">
+<br>Photo in the Marathon
+<br>
+<br>
