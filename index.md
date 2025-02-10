@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-<!--> **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!** -->
+<!-- >**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**-->
 
 - **Doctor of Philosophy (Phd) in Biomedical Engineering** 
 <br>[City University of Hong Kong](https://www.cityu.edu.hk/bme/), Hong Kong, China
