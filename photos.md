@@ -141,3 +141,16 @@ title: photos
 <br>Photo with Haofan
 <br>
 <br>
+- Aug. 2018：**Volunteer in Ubud, Indonesia** 
+<img src="/images/Groupphotos/Bali/Photo1.jpeg">
+<br>Photo with friends in the school
+<br>
+<br>
+<img src="/images/Groupphotos/IC/Photo2.jpeg">
+<br>Photo with the students
+<br>
+<br>
+<img src="/images/Groupphotos/IC/Photo3.jpeg">
+<br>Photo with friends in power plant
+<br>
+<br>
