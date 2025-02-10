@@ -109,6 +109,19 @@ title: photos
 <br>Photo with my parents
 <br>
 <br>
+- Jun. 2021：**Undergraduate graduation comedy performance - crush on Peach Blossom Spring** 
+<img src="/images/Groupphotos/comedy/Photo1.jpeg">
+<br>Photo with friends on the stage
+<br>
+<br>
+<img src="/images/Groupphotos/comedy/Photo2.jpeg">
+<br>Advertising photo
+<br>
+<br>
+<img src="/images/Groupphotos/comedy/Photo3.jpeg">
+<br>Propaganda still
+<br>
+<br>
 - May. 2021：**Senior Design** 
 <img src="/images/Groupphotos/Senior/Photo1.jpeg">
 <br>Photo with our Keebot, Xinyi, Zhi, and Kerui
