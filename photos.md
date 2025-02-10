@@ -159,11 +159,11 @@ title: photos
 <br>Photo with friends in the school
 <br>
 <br>
-<img src="/images/Groupphotos/IC/Photo2.jpeg">
+<img src="/images/Groupphotos/Bali/Photo2.jpeg">
 <br>Photo with the students
 <br>
 <br>
-<img src="/images/Groupphotos/IC/Photo3.jpeg">
+<img src="/images/Groupphotos/Bali/Photo3.jpeg">
 <br>Photo with friends in power plant
 <br>
 <br>
