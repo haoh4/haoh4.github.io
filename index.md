@@ -18,7 +18,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+<!--> **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!** -->
+
+- **Doctor of Philosophy (Phd) in Biomedical Engineering** 
+<br>[City University of Hong Kong](https://www.cityu.edu.hk/bme/), Hong Kong, China
+<br>Advisor: [Prof. Xinge Yu](https://yu-electronics.com/xinge-yu/)
+<br>February 2025 - on going
 
 - **Master of Science (MSc) in Mechanical Engineering** 
 <br>[Zhejiang University](https://www.zju.edu.cn/english/), China
@@ -60,7 +65,7 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 ## Honors & Awards
 
 ## Graduate Level:
-- Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** <br>Only [12 graduates] are selected around the university
+- Oct 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** <br>
 - Nov 2022：**National Scholarship, Top 1%, MOE of China** 
 - 2021-2022：Graduate of Merit/Triple A graduate, ZJU
 - 2021-2022：Creativity of Entrepreneurship Scholarship, ZJU
