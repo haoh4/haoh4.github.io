@@ -119,3 +119,25 @@ title: photos
 <br>Photo with Alma Mater in UIUC
 <br>
 <br>
+- Feb. 2019：**Imperial College London Data Science Winter Camp** 
+<img src="/images/Groupphotos/IC/Photo1.jpeg">
+<br>Photo with friends
+<br>
+<br>
+<img src="/images/Groupphotos/IC/Photo2.jpeg">
+<br>Photo with friends
+<br>
+<br>
+<img src="/images/Groupphotos/IC/Photo3.jpeg">
+<br>Photo with Haofan
+<br>
+<br>
+- July. 2019：**A trip to Tibet** 
+<img src="/images/Groupphotos/LS/Photo1.jpeg">
+<br>Photo with my friends
+<br>
+<br>
+<img src="/images/Groupphotos/LS/Photo2.jpeg">
+<br>Photo with my friends
+<br>
+<br>
