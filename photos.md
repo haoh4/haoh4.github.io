@@ -30,3 +30,12 @@ title: photos
 <br>Photo with my friends
 <br>
 <br>
+- Nov. 2023：**Zhejiang University Rugby Match** 
+<img src="/images/Groupphotos/Rugby/Photo1.jpeg">
+<br>Photo with my team mates
+<br>
+<br>
+<img src="/images/Groupphotos/Rugby/Photo2.jpeg">
+<br>Photo with my team mates
+<br>
+<br>
