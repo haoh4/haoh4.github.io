@@ -91,3 +91,21 @@ title: photos
 <br>Photo with Fab near the Pavilion of Prince Teng
 <br>
 <br>
+- Sep. 2021：**Admission to Master's Degree Programs** 
+<img src="/images/Groupphotos/YJS/Photo1.jpeg">
+<br>Photo with Prof. Peng Zhao and group members
+<br>
+<br>
+- Jun. 2021：**Undergraduate Commencement Ceremony** 
+<img src="/images/Groupphotos/Under/Photo1.jpeg">
+<br>Photo with Xinyi, Zhi, and Kerui
+<br>
+<br>
+<img src="/images/Groupphotos/Under/Photo2.jpeg">
+<br>Photo with Chengqian, Huangzhe, and Haonan
+<br>
+<br>
+<img src="/images/Groupphotos/Under/Photo3.jpeg">
+<br>Photo with my parents
+<br>
+<br>
