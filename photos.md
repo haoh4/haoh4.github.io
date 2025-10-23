@@ -9,6 +9,12 @@ title: photos
 
 - October. 2025：**Volunteer at 2025 iCANX Hong Kong Scientific Talent Forum** 
 <br>
+<img src="/images/Groupphotos/icanx/photo4.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/icanx/photo5.jpg">
+<br>
+<br>
 <img src="/images/Groupphotos/icanx/photo1.jpg">
 <br>
 <br>
