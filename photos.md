@@ -9,14 +9,14 @@ title: photos
 
 - October. 2025：**Volunteer at 2025 iCANX Hong Kong Scientific Talent Forum** 
 <br>
-<img src="/images/Groupphotos/icanx/photo1.jpeg">
+<img src="/images/Groupphotos/icanx/photo1.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/icanx/photo2.jpeg">
+<img src="/images/Groupphotos/icanx/photo2.jpg">
 <br>Photo with Prof. Wei Gao
 <br>
 <br>
-<img src="/images/Groupphotos/icanx/photo3.jpeg">
+<img src="/images/Groupphotos/icanx/photo3.jpg">
 <br>Photo with Prof. Metin Sitti
 <br>
 <br>
