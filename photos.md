@@ -7,6 +7,20 @@ title: photos
 
 ## Photos and Memories
 
+- October. 2025：**Volunteer at 2025 iCANX Hong Kong Scientific Talent Forum** 
+<br>
+<img src="/images/Groupphotos/icanx/photo1.jpeg">
+<br>
+<br>
+<img src="/images/Groupphotos/icanx/photo2.jpeg">
+<br>Photo with Prof. Wei Gao
+<br>
+<br>
+<img src="/images/Groupphotos/icanx/photo3.jpeg">
+<br>Photo with Prof. Metin Sitti
+<br>
+<br>
+
 - March. 2024：**Graduated from Zhejiang University with a master's degree** 
 <br>
 <img src="/images/Groupphotos/Master/Photo1.jpeg">
