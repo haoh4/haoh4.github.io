@@ -98,6 +98,9 @@ title: photos
 <img src="/images/Groupphotos/Cixi/Photo2.jpeg">
 <br>
 <br>
+<img src="/images/Groupphotos/Cixi/Photo3.jpg">
+<br>
+<br>
 - Sep. 2022：**Graduate Robotics Innovation Design Competition** 
 <img src="/images/Groupphotos/hao/Photo1.jpeg">
 <br>Photo with Haonan
@@ -166,6 +169,10 @@ title: photos
 <br>Photo with Alma Mater in UIUC
 <br>
 <br>
+<img src="/images/Groupphotos/UIUC/Photo2.jpg">
+<br>Photo with Ruizhe, Han, and Zhiwei in UIUC (haven't had a haircut for six months because of the COVID-19 pandemic)
+<br>
+<br>
 - July. 2019：**A trip to Tibet** 
 <img src="/images/Groupphotos/LS/Photo1.jpeg">
 <br>Photo with my friends
@@ -181,11 +188,15 @@ title: photos
 <br>
 <br>
 <img src="/images/Groupphotos/IC/Photo2.jpeg">
-<br>Photo with friends
+<br>Photo with Prof.Guang-zhong Yang and team-mate
 <br>
 <br>
 <img src="/images/Groupphotos/IC/Photo3.jpeg">
 <br>Photo with Haofan
+<br>
+<br>
+<img src="/images/Groupphotos/IC/Photo4.jpg">
+<br>Photo with Prof. Yike Guo in Imperical College London
 <br>
 <br>
 - Aug. 2018：**Volunteer in Ubud, Indonesia** 
