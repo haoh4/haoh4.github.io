@@ -61,7 +61,7 @@ title: photos
 <br>
 <br>
 <img src="/images/Groupphotos/ZKZ/Photo2.jpeg">
-<br>Photo with my friends
+<br>Photo with Xinyi, Zhi, and Huaijin
 <br>
 <br>
 - Nov. 2023：**Zhejiang University Rugby Match** 
