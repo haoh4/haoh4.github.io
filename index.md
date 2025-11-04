@@ -14,7 +14,6 @@ Before that, I received both my Master degree and Bachelor degree from **ME**, Z
 
 I am generally interested in magnetic tactile sensors, soft robotics, flexible electronics.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *mehaoh4@gmail.com*
 
 ## Academic Background
 
