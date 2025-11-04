@@ -175,11 +175,11 @@ title: photos
 <br>
 - July. 2019：**A trip to Tibet** 
 <img src="/images/Groupphotos/LS/Photo1.jpeg">
-<br>Photo with my friends
+<br>Photo with Jieting, Ruizhe, Haoqiang, Haoran, and Zhiwei
 <br>
 <br>
 <img src="/images/Groupphotos/LS/Photo2.jpeg">
-<br>Photo with my friends
+<br>Photo with my Haoran, Ruizhe, and Zhiwei
 <br>
 <br>
 - Feb. 2019：**Imperial College London Data Science Winter Camp** 
