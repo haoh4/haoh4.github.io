@@ -8,7 +8,7 @@ title: Awards
 
 ## Honors & Awards
 
-- Oct. 2023：**Chu Kochen Scholarship, Top 0.04%, the highest honor for ZJU students** 
+- Oct. 2023：**Chu Kochen Scholarship, the highest honor for ZJU students** 
 - Nov. 2023：**National Scholarship, Top 1%, MOE of China**
 - 2021 - 2022：Award of Honor for Graduate, ZJU
 - 2021 - 2022：Graduate of Merit/Triple A graduate, ZJU
