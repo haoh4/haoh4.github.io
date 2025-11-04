@@ -170,7 +170,7 @@ title: photos
 <br>
 <br>
 <img src="/images/Groupphotos/UIUC/Photo2.jpg">
-<br>Photo with Ruizhe, Han, and Zhiwei in UIUC (haven't had a haircut for six months because of the COVID-19 pandemic)
+<br>Photo with Ruizhe, Han, and Zhiwei in UIUC (haven't had a haircut for three months because of the COVID-19 pandemic)
 <br>
 <br>
 - July. 2019：**A trip to Tibet** 
