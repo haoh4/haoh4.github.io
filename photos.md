@@ -44,7 +44,7 @@ title: photos
 - Dec. 2023：**The 5th International Conference on Flexible Electronics** 
 <br>
 <img src="/images/Groupphotos/FE/Photo1.jpeg">
-<br>Photo with group members
+<br>Photo with Huangzhe, Haonan, Zhezai, Linxiao, and Yujie
 <br>
 <br>
 <img src="/images/Groupphotos/FE/Photo2.jpeg">
