@@ -40,8 +40,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  #- title: Awards
+  #  url: /awards/
   - title: Photos
     url: /photos/
   #- title: Hobbies
