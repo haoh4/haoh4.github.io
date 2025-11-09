@@ -112,11 +112,11 @@ title: photos
 <br>
 - Aug. 2022：**China Robotics Academic Annual Conference** 
 <img src="/images/Groupphotos/Robot/Photo1.jpeg">
-<br>Photo with my group members
+<br>Photo with Chengqian, Haonan, Daofan, Chenxin, and Huangzhe
 <br>
 <br>
 <img src="/images/Groupphotos/Robot/Photo2.jpeg">
-<br>Photo with group members
+<br>Photo with Chengqian, Haonan, Daofan, Chenxin, and Huangzhe
 <br>
 <br>
 - Oct. 2021：**China International College Student Entrepreneurship Competition** 
