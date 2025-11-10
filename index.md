@@ -86,5 +86,5 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 - 2017：The Second Prize in the ”White Horse Cup” Debate Competition, ZJUI
 
 <br>
-<a href="https://mapmyvisitors.com/web/1c0jf"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=J47EqWCgPi7Hvsg7OaRnOQDze24h9Ol_1QQiKOLrYZI&cl=ffffff" /></a>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=J47EqWCgPi7Hvsg7OaRnOQDze24h9Ol_1QQiKOLrYZI&cl=ffffff&w=a"></script>
 ---
