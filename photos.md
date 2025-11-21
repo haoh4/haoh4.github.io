@@ -15,7 +15,7 @@ title: photos
 <img src="/images/Groupphotos/K. Jimmy Hsia/Photo2.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/K. Jimmy Hsia/Photo1.jpg">
+<img src="/images/Groupphotos/K. Jimmy Hsia/Photo3.jpg">
 <br>Photo with Prof. K. Jimmy Hsia
 <br>
 <br>
