@@ -7,6 +7,19 @@ title: photos
 
 ## Photos and Memories
 
+- November. 2025：**Professor K. Jimmy Hsia's talk in CityU** 
+<br>
+<img src="/images/Groupphotos/K. Jimmy Hsia/Photo1.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/K. Jimmy Hsia/Photo2.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/K. Jimmy Hsia/Photo1.jpg">
+<br>Photo with Prof. K. Jimmy Hsia
+<br>
+<br>
+
 - October. 2025：**Volunteer at 2025 iCANX Hong Kong Scientific Talent Forum** 
 <br>
 <img src="/images/Groupphotos/icanx/photo4.jpg">
