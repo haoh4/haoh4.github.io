@@ -40,6 +40,17 @@ title: photos
 <br>
 <br>
 
+- Sep. 2025：**2025 Digital Health Asia** 
+<br>
+<img src="/images/Groupphotos/Digital_health/photo1.jpg">
+<br>Photo with Prof. John A. Rogers, my supersivor Prof. Xinge Yu, and Dr. Jian Li.
+<br>
+<br>
+<img src="/images/Groupphotos/Digital_health/photo2.jpg">
+<br>Photo with Brother Samuel Chien, and Sister Phoebe
+<br>
+<br>
+
 - March. 2024：**Graduated from Zhejiang University with a master's degree** 
 <br>
 <img src="/images/Groupphotos/Master/Photo1.jpeg">
