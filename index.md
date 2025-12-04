@@ -64,7 +64,7 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 ---
 ## Honors & Awards
 
-## HK PhD Level:
+## PhD Level:
 - Sep 2025：**HONG KONG PhD Fellowship Scheme(HKPFS)** <br>
 
 ## Graduate Level:
