@@ -64,6 +64,9 @@ With the introduction of humanoid robots like Tesla's "Optimus" and Boston Dynam
 ---
 ## Honors & Awards
 
+## HK phD Level:
+**HONG KONG PhD Fellowship Scheme(HKPFS)** <br>
+
 ## Graduate Level:
 - Oct 2023：**Chu Kochen Scholarship, the highest honor for ZJU students** <br>
 - Nov 2022：**National Scholarship, Top 1%, MOE of China** 
