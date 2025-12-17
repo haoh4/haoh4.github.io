@@ -125,6 +125,21 @@ title: photos
 <img src="/images/Groupphotos/Cixi/Photo3.jpg">
 <br>
 <br>
+
+- Nov. 2022：**Basketball Competition with My Friends** 
+<img src="/images/Groupphotos/Basketballcompetition/Photo1.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/Basketballcompetition/Photo2.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/Basketballcompetition/Photo3.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/Basketballcompetition/Photo4.jpg">
+<br>
+<br>
+
 - Sep. 2022：**Graduate Robotics Innovation Design Competition** 
 <img src="/images/Groupphotos/hao/Photo1.jpeg">
 <br>Photo with Haonan
@@ -134,6 +149,7 @@ title: photos
 <br>Photo in the competition
 <br>
 <br>
+
 - Aug. 2022：**China Robotics Academic Annual Conference** 
 <img src="/images/Groupphotos/Robot/Photo1.jpeg">
 <br>Photo with Chengqian, Haonan, Daofan, Chenxin, and Huangzhe
