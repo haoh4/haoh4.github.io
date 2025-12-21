@@ -97,6 +97,19 @@ title: photos
 <br>Photo with my team mates
 <br>
 <br>
+<img src="/images/Groupphotos/Rugby/Photo3.jpg">
+<br>Photo in the game
+<br>
+<br>
+<img src="/images/Groupphotos/Rugby/Photo4.jpg">
+<br>Photo with the cup
+<br>
+<br>
+<img src="/images/Groupphotos/Rugby/Photo5.jpg">
+<br>Photo in the game
+<br>
+<br>
+
 - Sep. 2023：**Volunteer of Hangzhou Asian Games** 
 <img src="/images/Groupphotos/AG/Photo1.jpeg">
 <br>Photo with Prince of Bhutan Mr. Jigyel Ugyen Wangchuck
