@@ -7,6 +7,19 @@ title: photos
 
 ## Photos and Memories
 
+- Jan. 2026：**Nature Conference "Translational Biomaterials" in CUHK** 
+<br>
+<img src="/images/Groupphotos/Natureconference_CUHK/Photo1.jpg">
+<br>Photo with Prof. Xuanhe Zhao
+<br>
+<br>
+<img src="/images/Groupphotos/Natureconference_CUHK/Photo2.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/K. Jimmy Hsia/Photo3.jpg">
+<br>
+<br>
+
 - November. 2025：**Professor K. Jimmy Hsia's talk in CityU** 
 <br>
 <img src="/images/Groupphotos/K. Jimmy Hsia/Photo1.jpg">
