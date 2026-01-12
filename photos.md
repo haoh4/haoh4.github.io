@@ -16,9 +16,6 @@ title: photos
 <img src="/images/Groupphotos/Natureconference_CUHK/Photo2.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/K. Jimmy Hsia/Photo3.jpg">
-<br>
-<br>
 
 - November. 2025：**Professor K. Jimmy Hsia's talk in CityU** 
 <br>
