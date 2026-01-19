@@ -277,17 +277,17 @@ title: photos
 <br>
 
 - Jan. 2026：**2026 Standard Chartered Hong Kong Marathon** 
-<img src="/images/Groupphotos/Run2/photo1.jpeg">
+<img src="/images/Groupphotos/Run2/photo1.jpg">
 <br>Finisher medal
 <br>
 <br>
-<img src="/images/Groupphotos/Run2/photo2.jpeg">
+<img src="/images/Groupphotos/Run2/photo2.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/Run2/photo3.jpeg">
+<img src="/images/Groupphotos/Run2/photo3.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/Run2/photo4.jpeg">
+<img src="/images/Groupphotos/Run2/photo4.jpg">
 <br>Photos in the Marathon (4 photos cost me 198)
 <br>
 <br>
