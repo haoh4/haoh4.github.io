@@ -275,6 +275,23 @@ title: photos
 <br>Photo with friends in power plant
 <br>
 <br>
+
+- Jan. 2026：**2026 Standard Chartered Hong Kong Marathon** 
+<img src="/images/Groupphotos/Run2/photo1.jpeg">
+<br>Finisher medal
+<br>
+<br>
+<img src="/images/Groupphotos/Run2/photo2.jpeg">
+<br>
+<br>
+<img src="/images/Groupphotos/Run2/photo3.jpeg">
+<br>
+<br>
+<img src="/images/Groupphotos/Run2/photo4.jpeg">
+<br>Photos in the Marathon (4 photos cost me 198)
+<br>
+<br>
+
 - Jan. 2025：**Zhejiang University Campus Marathon** 
 <img src="/images/Groupphotos/Run/Photo1.jpeg">
 <br>Photo with Ruoxiang, and Huangzhe
