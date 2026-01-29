@@ -7,6 +7,18 @@ title: photos
 
 ## Photos and Memories
 
+- Jan. 2026：**Students from Sun Yat-sen University visited our laboratory** 
+<br>
+<img src="/images/Groupphotos/Zhongshan visit/Photo1.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/Zhongshan visit/Photo2.jpg">
+<br>Introduce the work of our group to the students
+<br>
+<br>
+<img src="/images/Groupphotos/Zhongshan visit/Photo3.jpg">
+<br>
+<br>
 - Jan. 2026：**Nature Conference "Translational Biomaterials" in CUHK** 
 <br>
 <img src="/images/Groupphotos/Natureconference_CUHK/Photo1.jpg">
