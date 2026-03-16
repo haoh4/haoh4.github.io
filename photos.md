@@ -7,7 +7,7 @@ title: photos
 
 ## Photos and Memories
 
-- March. 2026：**BME3101 Micro and Nanotechnology for Biomedical Engineering Teaching Assistant ** 
+- March. 2026：**BME3101 Micro and Nanotechnology for Biomedical Engineering Teaching Assistant** 
 <br>
 <img src="/images/Groupphotos/BME3101TA/Photo1.jpg">
 <br>
@@ -32,7 +32,9 @@ title: photos
 <img src="/images/Groupphotos/Zhongshan visit/Photo3.jpg">
 <br>
 <br>
-- Jan. 2026：**Nature Conference "Translational Biomaterials" in CUHK** 
+
+
+- Jan. 2026：**Nature Conference "Translational Biomaterials" in CUHK**
 <br>
 <img src="/images/Groupphotos/Natureconference_CUHK/Photo1.jpg">
 <br>Photo with Prof. Xuanhe Zhao
