@@ -9,14 +9,13 @@ title: photos
 
 - March. 2026：**BME3101 Micro and Nanotechnology for Biomedical Engineering Teaching Assistant** 
 <br>
-<img src="/images/Groupphotos/BME3101TA/Photo1.jpg">
+<img src="/images/Groupphotos/BME3101TA/photo1.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/BME3101TA/Photo2.jpg">
-<br>Introduce the work of our group to the students
+<img src="/images/Groupphotos/BME3101TA/photo2.jpg">
 <br>
 <br>
-<img src="/images/Groupphotos/BME3101TA/Photo3.jpg">
+<img src="/images/Groupphotos/BME3101TA/photo3.jpg">
 <br>
 <br>
 
