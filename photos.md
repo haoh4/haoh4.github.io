@@ -7,6 +7,19 @@ title: photos
 
 ## Photos and Memories
 
+- March. 2026：**BME3101 Micro and Nanotechnology for Biomedical Engineering Teaching Assistant ** 
+<br>
+<img src="/images/Groupphotos/BME3101TA/Photo1.jpg">
+<br>
+<br>
+<img src="/images/Groupphotos/BME3101TA/Photo2.jpg">
+<br>Introduce the work of our group to the students
+<br>
+<br>
+<img src="/images/Groupphotos/BME3101TA/Photo3.jpg">
+<br>
+<br>
+
 - Jan. 2026：**Students from Sun Yat-sen University visited our laboratory** 
 <br>
 <img src="/images/Groupphotos/Zhongshan visit/Photo1.jpg">
